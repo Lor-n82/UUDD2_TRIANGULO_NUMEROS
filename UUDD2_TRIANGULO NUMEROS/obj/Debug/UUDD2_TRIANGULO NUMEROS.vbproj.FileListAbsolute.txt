@@ -1,0 +1,9 @@
+c:\users\loren\documents\visual studio 2013\Projects\UUDD2_TRIANGULO NUMEROS\UUDD2_TRIANGULO NUMEROS\bin\Debug\UUDD2_TRIANGULO NUMEROS.exe.config
+c:\users\loren\documents\visual studio 2013\Projects\UUDD2_TRIANGULO NUMEROS\UUDD2_TRIANGULO NUMEROS\obj\Debug\UUDD2_TRIANGULO_NUMEROS.Resources.resources
+c:\users\loren\documents\visual studio 2013\Projects\UUDD2_TRIANGULO NUMEROS\UUDD2_TRIANGULO NUMEROS\obj\Debug\UUDD2_TRIANGULO NUMEROS.vbproj.GenerateResource.Cache
+c:\users\loren\documents\visual studio 2013\Projects\UUDD2_TRIANGULO NUMEROS\UUDD2_TRIANGULO NUMEROS\bin\Debug\UUDD2_TRIANGULO NUMEROS.exe
+c:\users\loren\documents\visual studio 2013\Projects\UUDD2_TRIANGULO NUMEROS\UUDD2_TRIANGULO NUMEROS\bin\Debug\UUDD2_TRIANGULO NUMEROS.pdb
+c:\users\loren\documents\visual studio 2013\Projects\UUDD2_TRIANGULO NUMEROS\UUDD2_TRIANGULO NUMEROS\bin\Debug\UUDD2_TRIANGULO NUMEROS.xml
+c:\users\loren\documents\visual studio 2013\Projects\UUDD2_TRIANGULO NUMEROS\UUDD2_TRIANGULO NUMEROS\obj\Debug\UUDD2_TRIANGULO NUMEROS.exe
+c:\users\loren\documents\visual studio 2013\Projects\UUDD2_TRIANGULO NUMEROS\UUDD2_TRIANGULO NUMEROS\obj\Debug\UUDD2_TRIANGULO NUMEROS.xml
+c:\users\loren\documents\visual studio 2013\Projects\UUDD2_TRIANGULO NUMEROS\UUDD2_TRIANGULO NUMEROS\obj\Debug\UUDD2_TRIANGULO NUMEROS.pdb
